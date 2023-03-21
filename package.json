@@ -1,0 +1,22 @@
+{
+  "name": "blog-generator",
+  "version": "1.0.0",
+  "description": "Blog generator using ChatGPT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/derek-williams00/blog-generator.git"
+  },
+  "keywords": [
+    "ChatGPT"
+  ],
+  "author": "Derek Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derek-williams00/blog-generator/issues"
+  },
+  "homepage": "https://github.com/derek-williams00/blog-generator#readme"
+}
